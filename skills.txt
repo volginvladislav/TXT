@@ -1,0 +1,22 @@
+Skills:
+1. Сlient-server architecture
+2. HTTP requests
+3. HTTP response codes
+4. Structure JSON
+5. Structure XML
+6. Postman 
+7. Charles 
+8. Fiddler
+9. Dev Tools 
+10. VPN
+11. Mobile testing
+12. XCode
+13. Android Studio
+14. ADB 
+15. Terminal Linux
+16. GitHub 
+17. SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+18. Postgres
+19. Redis
+20. Jmeter
+21. Scrum
